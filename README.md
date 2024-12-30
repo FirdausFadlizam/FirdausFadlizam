@@ -1,4 +1,4 @@
-##💫 About Me:
+## 💫 About Me:
 I’m currently working as a Cloud Engineer, where I assist in provisioning cloud resources, developing web applications and tools, and automating workflows to support my organization.
 
 ## 🌐 Socials:
